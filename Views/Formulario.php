@@ -1,6 +1,5 @@
 <?php
-
-?>
+echo'
 
 <form action="index.php" method="post">
   <label for="nombre">Nombre:</label><br>
@@ -13,4 +12,4 @@
   <textarea id="comentarios" name="comentarios" rows="4" required></textarea><br><br>
 
   <button type="submit">Enviar</button>
-</form>
+</form>';
